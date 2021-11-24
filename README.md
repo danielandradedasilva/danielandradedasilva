@@ -5,7 +5,7 @@
 <div>
  <ul>
   <li>
-    🔭 Atualmente estou trabalhando como impressor de silk!
+    🔭 Atualmente estou trabalhando como impressor Digital!
   </li>
   <li>
     🌱 No momento estou estudando PHP e JavaScript  
