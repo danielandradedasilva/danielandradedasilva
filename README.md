@@ -1,9 +1,21 @@
- <h1 style="color:blue">Olá eu sou o Daniel Andrade</h1> 👋
 
-- 🔭 Atualmente estou trabalhando como impressor de silk!
-- 🌱 No momento estou estudando PHP e JavaScript
-- 📫 Meu contato é: danny83910@gmail.com
-
+<div align="center">
+ <h1>Olá eu sou o Daniel Andrade ✌️</h1>
+</div>
+<div>
+ <ul>
+  <li>
+    🔭 Atualmente estou trabalhando como impressor de silk!
+  </li>
+  <li>
+    🌱 No momento estou estudando PHP e JavaScript  
+  </li>
+  <li>
+    📫 Meu contato é: danny83910@gmail.com
+  </li>
+ </ul>
+</div>
+<hr>
 <div align="center">
   <a href="https://github.com/danielandradedasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielandradedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
