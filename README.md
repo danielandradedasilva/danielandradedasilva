@@ -1,4 +1,4 @@
- <h1>Olá eu sou o Daniel Andrade</h1> 👋
+ <h1 style="color:blue">Olá eu sou o Daniel Andrade</h1> 👋
 
 - 🔭 Atualmente estou trabalhando como impressor de silk!
 - 🌱 No momento estou estudando PHP e JavaScript
