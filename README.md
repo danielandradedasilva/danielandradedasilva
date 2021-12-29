@@ -8,7 +8,7 @@
     🔭 Atualmente estou trabalhando como impressor Digital!
   </li>
   <li>
-    🌱 No momento estou estudando PHP e JavaScript  
+    🌱 No momento estou estudando JavaScript  
   </li>
   <li>
     📫 Meu contato é: danny83910@gmail.com
