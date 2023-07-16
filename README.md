@@ -5,10 +5,10 @@
 <div>
  <ul>
   <li>
-    🔭 Atualmente estou trabalhando como impressor Digital!
+    🔭 Atualmente estou trabalhando como Impressor Silk!
   </li>
   <li>
-    🌱 No momento estou estudando PHP  
+    🌱 No momento estou estudando PHP, TypeScript e React  
   </li>
   <li>
     📫 Meu contato é: danny83910@gmail.com
